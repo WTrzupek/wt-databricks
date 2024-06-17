@@ -1,0 +1,9 @@
+{
+	"name": "databricks-course-adf-wt",
+	"location": "polandcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d6971ef4-3957-4ae7-aaa3-a9a9eaeaed6e",
+		"tenantId": "a62e972f-d6ac-4241-949b-6b4181258847"
+	}
+}
